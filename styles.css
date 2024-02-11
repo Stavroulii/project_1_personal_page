@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/imageee.png') no-repeat top center ;
+  background: url('images/imageee.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -78,7 +78,7 @@ header .profile-image:hover {
 }
 .tag {
   background-color: #5d2899c4;
-  color: black;
+  color: rgb(218, 212, 212);
   padding: 10px;
   border-radius: 5px;
   display: table;
